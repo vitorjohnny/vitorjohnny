@@ -22,13 +22,12 @@
 </div>
 
 
-<div>
+<div><br>
+  <a href="https://www.instagram.com/vitor._.jg/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 
-<a href="https://www.instagram.com/vitor._.jg/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-
-<a href="https://www.linkedin.com/in/vitor-johnny-das-gra%C3%A7as-ab1376363/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+  <a href="https://www.linkedin.com/in/vitor-johnny-das-gra%C3%A7as-ab1376363/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
