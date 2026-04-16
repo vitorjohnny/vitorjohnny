@@ -2,7 +2,7 @@ name: Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Executa automaticamente todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,8 +11,7 @@ jobs:
     name: Generate Pacman
     steps:
       - uses: actions/checkout@v3
-      - uses: vitorjohnny/pacman-contribution-graph@v1.0.0
-        with:
-          username: ${{ github.repository_owner }}
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: "output"
+      - name: Run your pacman script
+        run: |
+          # Add your pacman contribution graph generation logic here
+          echo "Generating pacman contribution graph..."
