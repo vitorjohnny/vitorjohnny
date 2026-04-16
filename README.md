@@ -13,7 +13,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorjohnny&theme=dracula"/>
 </div>
 
-<div style="display: flex; align-items: center; gap: 10px;"><br>
+<div>
+
+## 💻 Technology Stack
+
+<div style="display: flex; align-items: center; gap: 10px;">
   <img alt="V-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="V-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="V-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
