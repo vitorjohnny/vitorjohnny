@@ -1,27 +1,22 @@
-name: Generate Pacman Graph
+name: Generate Pacman
 
 on:
-  schedule:
-    - cron: "0 */12 * * *"
   workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+
+      - uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: vitorjohnny
-          outputs: |
-            dist/pacman.svg?animation=pacman
-            dist/pacman-dark.svg?palette=github-dark&animation=pacman
 
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Push to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: ./dist
           publish_branch: output
