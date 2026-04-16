@@ -40,7 +40,4 @@
   </a>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/main/dist/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/main/dist/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/snake.svg)
