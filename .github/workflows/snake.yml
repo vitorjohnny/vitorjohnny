@@ -1,12 +1,15 @@
 name: Generate Datas
 
 on:
-  schedule: # Executa automaticamente a cada 12 horas
+  schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite que você execute manualmente quando quiser
+  workflow_dispatch:
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,11 +21,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # O segredo é adicionar &animation_style=pacman e &style=pacman na URL
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-          # Esta é a configuração chave para o tema Pac-Man completo:
-          snake_style: pacman
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&style=pacman&animation_style=pacman
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=yellow&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&style=pacman&animation_style=pacman
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
