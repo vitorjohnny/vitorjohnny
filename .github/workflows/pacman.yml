@@ -1,0 +1,18 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa automaticamente todo dia à meia-noite
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate Pacman
+    steps:
+      - uses: actions/checkout@v3
+      - uses: vitorjohnny/pacman-contribution-graph@v1.0.0
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: "output"
