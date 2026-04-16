@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: vitorjohnny
           outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+            dist/pacman-contribution-graph.svg?animation=pacman
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&animation=pacman
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
