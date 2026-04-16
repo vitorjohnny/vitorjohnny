@@ -41,7 +41,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/pacman-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/pacman.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/github-contribution-grid-snake.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/output/github-contribution-grid-snake.svg">
 </picture>
