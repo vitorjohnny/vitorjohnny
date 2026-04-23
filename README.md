@@ -21,19 +21,28 @@
 
 ## 💻 Technology Stack
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="V-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="V-HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="V-CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="V-Python" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="V-Java" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img alt="VSCode" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="IntelliJ" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="Postman" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img alt="Docker" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="Angular" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="filter: grayscale(100%);">
+  
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="filter: grayscale(100%);">
+
 </div>
 
 
