@@ -8,15 +8,34 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vitorjohnny&theme=dracula" height="180em" whidt/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vitorjohnny&theme=dracula" height="180em"/>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=vitorjohnny&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" 
+    width="49%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjohnny&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" 
+    width="49%"
+  />
 </div>
 
-<div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorjohnny&theme=dracula"/>
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=vitorjohnny&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" 
+    width="100%"
+  />
 </div>
 
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=vitorjohnny&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
+    width="55%"
+  />
+</div>
 <br>
 
 ## 💻 Technology Stack
