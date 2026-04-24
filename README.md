@@ -6,7 +6,7 @@
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img 
@@ -38,7 +38,7 @@
 </div>
 <br>
 
-## 💻 Technology Stack
+## Technology Stack
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
