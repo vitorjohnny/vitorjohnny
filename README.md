@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontSize=70&fontColor=FFFFFF&color=0:555555,100:AAAAAA" style="width: 100%; display: block;" />
 </div>
 
-<img src="banner.png">
-
 
 
 ## GitHub Stats
