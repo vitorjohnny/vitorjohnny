@@ -5,18 +5,6 @@
 
 
 ## GitHub Stats
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=vitorjohnny&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false" 
-    width="49%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorjohnny&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff&hide_border=false" 
-    width="49%"
-  />
-</div>
-
 <br/>
 
 <div align="center">
