@@ -3,8 +3,50 @@
 </div>
 
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:000000,100:1a1a1a&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=42&descSize=16&descAlign=50&descAlignY=62&animation=fadeIn"/>
+</div>
 
-## GitHub Stats
+<br/>
+
+# About Me 
+
+---
+
+I'm a *17-year-old Full Stack Developer* and *Computer Science student* at *SESI, currently taking a **Systems Development* technical course at *SENAI SP*.
+
+I'm passionate about turning ideas into *solid, scalable, and well-designed digital products* — working from *backend architecture* to *polished interfaces, always prioritizing **clean code* and *exceptional user experience*.
+
+ *Robotics Background:*  
+Former member of *RAIDENS Robotics Team* with notable achievements:
+- ✱ *Regional Vice-Champion* - OBR Robotics Competition
+- ✱ *Best Programming Award* in the state
+- ✱ *4th Best Robot in Brazil*
+- ✱ *Corvelhos Award* - Presidente Epitácio
+
+<br/>
+
+<br/>
+
+<!--  ═══════════════  TECH STACK  ═══════════════  -->
+
+# My Stacks
+
+---
+
+<br/>
+
+
+<div align="center">
+  <img src="https://skills.syvixor.com/api/icons?perline=8&theme=dark&i=html,css,js,angular,figma,git,java,python" alt="Skills" width="660px" />
+</div>
+
+<br/>
+
+# GitHub Analytics
+
+---
+
 <br/>
 
 <div align="center">
@@ -25,41 +67,11 @@
   
 </div>
 
-<br>
-
-## Technology Stack
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="filter: grayscale(100%);">
-  
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="filter: grayscale(100%);">
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1a1a1a,100:000000"/>
 </div>
 
 
-<div><br>
-
-  <a href="https://www.linkedin.com/in/vitor-johnny-das-gra%C3%A7as-ab1376363/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vitorjohnny/vitorjohnny/main/dist/github-contribution-grid-snake-dark.svg">
