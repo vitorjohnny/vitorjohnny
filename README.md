@@ -21,7 +21,10 @@
     src="https://github-readme-streak-stats.herokuapp.com?user=vitorjohnny&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff&border=ffffff&currStreakNum=ffffff&sideNums=ffffff" 
     width="55%"
   />
+
+  
 </div>
+
 <br>
 
 ## Technology Stack
