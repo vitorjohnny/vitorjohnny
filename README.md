@@ -22,7 +22,7 @@ Former member of *RAIDENS Robotics Team* with notable achievements:
 - ✱ *Regional Vice-Champion* - OBR Robotics Competition
 - ✱ *Best Programming Award* in the state
 - ✱ *4th Best Robot in Brazil*
-- ✱ *Corvelhos Award* - Presidente Epitácio
+- ✱ *Core Value Award* - Presidente Epitácio
 
 <br/>
 
